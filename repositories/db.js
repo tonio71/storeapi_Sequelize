@@ -1,7 +1,7 @@
 import Sequelize from "sequelize";
 
 const sequelize = new Sequelize(
-  "postgres://fljnyomj:3_kxlO9sfEJLqSKerr596V0hVp68Sjye@motty.db.elephantsql.com/fljnyomj",
+  "postgres://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   {
     dialect:"postgres",
     define:{
